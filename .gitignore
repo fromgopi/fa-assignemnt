@@ -102,7 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
-flask-backend/__pycache__
+backend/src/__pycache__
+backend/src/common/__pycache__/
+backend/src/config/__pycache__/
+backend/src/resources/todo/__pycache__/
+backend/src/resources/todo/controller/__pycache__/
 flask-backend/*.iml
 .vscode/*
 .idea
