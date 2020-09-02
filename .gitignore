@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+flask-backend/__pycache__
+flask-backend/*.iml
